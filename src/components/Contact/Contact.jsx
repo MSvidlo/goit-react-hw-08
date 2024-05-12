@@ -1,4 +1,4 @@
-import css from './contact.module.css';
+import css from './Contact.module.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPhone, faUser } from '@fortawesome/free-solid-svg-icons';
 import { useSelector } from 'react-redux';
